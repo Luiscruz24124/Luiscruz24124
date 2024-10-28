@@ -1,0 +1,32 @@
+
+/* changes the color of the left 3rd of page */
+.greyside{
+    background-color: silver;
+    
+}
+#welcome{
+    text-align: center;
+   
+}
+
+.infoWindow{
+    color: black;
+}
+
+/* changes the color of the right 2/3 of page */
+#rightside{
+    background-color: lightgray;
+    
+}
+/* sets background color */
+body{
+    background-color: gainsboro;
+}
+/* sets background color  of current learning focus area */
+#info{
+    background:   	#ebeae7;
+}
+/* sets background color  of extracurrulars */
+#person{
+    background-color: white;
+}
